@@ -1,2 +1,2 @@
 # PoDgS
-Partial ordering, dependant graph, and scheduling project
+Partial ordering, dependent graph, and scheduling project
